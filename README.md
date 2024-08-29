@@ -14,4 +14,5 @@ The dataset reveals that a small handful of microbial species (also called opera
 [index.html](/index.html)  
 
 ### The dashboard is deployed on GitHub Pages and can be accessed through the following link:
-https://12rakhisingh.github.io/belly_button-challenge/
+[https://12rakhisingh.github.io/belly_button-challenge/
+](https://12rakhisingh.github.io/belly-button-challenge/)
